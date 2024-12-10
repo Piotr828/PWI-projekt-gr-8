@@ -1,10 +1,12 @@
 # Projekt PWI
 
-## Temat:
+## Temat: Gra TETRIS
 
 ### Funkcjonalności:
+* system zapisu i wczytywania postępu
 
 ### Instrukcja uruchomienia:
+Należy uruchomić skrypt python za pomocą trybu start
 
 ### Niezbędne paczki:
 * **PyView**
